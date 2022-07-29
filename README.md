@@ -9,6 +9,7 @@ However, the JS code is running well.
 Thank you in advance for your supports.
 
 Link to live demo in English: 
+https://theme.ipbses.com/JS/password-generator-en/
 
 Best Regards,
 Amir Mohammad Shahsavarani.
@@ -20,6 +21,8 @@ Amir Mohammad Shahsavarani.
 تنها مشکل این است که ابتدای کار نیاز است پس از وارد ساختن طول مورد نظر برای پسورد، یکبار صفحه را رفرش کنید و نیز هنگام تغییر طول، تنها در صورتی که صفحه رفرش شود این اتفاق برای طول جدید خواهد افتاد.
 در فضای مجازی و فوروم ها جوابی برای حل این مشکل نیافتم. این مشکل تنها گویا در بخش فایل اچ تی ام ال است، زیرا کد جاوا اسکریپت به درستی کار کرده و در کنسول هم پیام خطایی نمی دهد.
 خوشحال و ممنون می شوم اگر بتوانید به بنده در حل این مسئله کمک کنید.
+لینک دموی لایو فارسی:
+https://theme.ipbses.com/JS/password-generator-fa/
 
 ارادتمند،
 دکتر امیر محمد شهسوارانی
