@@ -2,9 +2,9 @@
 password generator with JavaScript
 
 Hi everybody;
-In this naive project, I have made some simple password generator for everyone with the use of JavaScript. I have mereley uploaded the JavaScript file here. You can make any type of CSS and HTML files easily with your own desired verison.
+In this naive project, I have made some simple password generator for everyone with the use of JavaScript. I have merely uploaded the JavaScript file here. You can make any type of CSS and HTML files easily with your own desired verison.
 In HTML implementation on live demo, you shall first type in the desired password and then press F5 in order to activate. In addition, at the time of changing the desirde password length, the cache doesn't change unless you refresh the page (F5).
-I have not found any solution via web for this problem, and would be glad if you could contribute and help me solve this iusse.
+I have not found any solution via web for this problem, and would be glad if you could contribute and help me solve this issue.
 However, the JS code is running well.
 Thank you in advance for your supports.
 
